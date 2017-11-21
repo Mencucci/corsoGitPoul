@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void main() {
-	/* stampa hello world */
+/* stampa hello world */
+void main(int argc, char * argv[]) {
 	printf("Hello World!\n");
 	return 0;
 }
