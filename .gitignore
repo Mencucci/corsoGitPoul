@@ -1,0 +1,7 @@
+# file da non tracciare
+*.a
+*.o
+*.out
+
+# file esplicito da ignorare
+pippo.c
